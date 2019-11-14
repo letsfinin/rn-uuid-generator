@@ -1,0 +1,25 @@
+{
+  "name": "rn-uuid-generator",
+  "version": "0.0.1",
+  "description": "UUID Wrapper for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "uuid"
+  ],
+  "author": "Yashovardhan Agrawal",
+  "license": "MIT",
+  "homepage": "https://github.com/letsfinin/rn-uuid-generator#readme",
+  "peerDependencies": {
+    "react-native": "^0.47"
+  },
+  "files": [
+    "android/",
+    "ios/",
+    "index.js",
+    "react-native-uuid-generator.podspec"
+  ]
+}
